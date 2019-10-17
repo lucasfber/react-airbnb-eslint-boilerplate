@@ -1,3 +1,5 @@
+# A Simple Boilerplate For React Apps Using Airbnb Style Guide Plugin + Prettier
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
